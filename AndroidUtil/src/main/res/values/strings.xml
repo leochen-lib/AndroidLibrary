@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">AndroidUtil</string>
+
+    <string name="info_connecting">Connecting...</string>
+    <string name="info_waiting">Please Wait...</string>
+    <string name="network_mobile">Mobile Network</string>
+    <string name="network_wifi">Wifi Network</string>
+    <string name="network_none">No Network</string>
+
+    <string name="confirm_yes">Yes</string>
+    <string name="confirm_no">No</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="flow_next">Next</string>
+    <string name="flow_back">Back</string>
+
+    <string name="delete">Delete</string>
+    <string name="submit">Submit</string>
+    <string name="done">Done</string>
 </resources>
